@@ -1,7 +1,0 @@
-POST http://study.duyiedu.com/api/user/login HTTP/1.1
-Content-Type: application/json
-
-{
-    "loginId":"haha",
-    "loginPwd":"123123"
-}
